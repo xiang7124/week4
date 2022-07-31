@@ -1,0 +1,17 @@
+cd /d D:\
+cd D:\VS2018\six\week3
+
+網路空間
+https://github.com/xiang7124/week4.git
+
+部屬網站(開發環境)先停止gulp
+git init 初始化後就不用這條
+git add .
+git commit -m "first commit"
+git remote add origin https://github.com/xiang7124/week4.git
+git push -u origin master 
+
+
+更新網站(編譯後的)，先停止gulp(ctrl+c)
+gulp build
+gulp deploy
