@@ -4,6 +4,11 @@ cd D:\VS2018\six\week3
 網路空間
 https://github.com/xiang7124/week4.git
 
+網址(選week4>setting>page)
+https://xiang7124.github.io/week4/
+
+
+
 部屬網站(開發環境)先停止gulp
 git init 初始化後就不用這條
 git add .
